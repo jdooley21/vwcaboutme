@@ -13,3 +13,4 @@
 
 * Gather page content
 * Create file structure
+* Push to github
